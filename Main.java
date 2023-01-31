@@ -4,7 +4,7 @@ public class Main {
         String[] nombres = {"Victor", "Sixto", "Jairo", "Rafael",};
 
         for (int i = 0; i < nombres.length; i++) {
-            System.out.println(nombres[i]);
+            System.out.print(nombres[i]);
         }
     }
 }
